@@ -15,3 +15,6 @@ tmp
 t.*
 *.pid
 build
+bin/
+Desktop.ini
+Testing/

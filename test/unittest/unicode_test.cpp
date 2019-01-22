@@ -1,3 +1,4 @@
+#include <ctime>
 #include "cppjieba/Unicode.hpp"
 #include "limonp/StdExtension.hpp"
 #include "gtest/gtest.h"

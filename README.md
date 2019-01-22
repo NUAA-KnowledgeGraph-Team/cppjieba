@@ -288,3 +288,5 @@ Query方法先使用Mix方法切词，对于切出来的较长的词再使用Ful
 [perl5-jieba]:https://metacpan.org/pod/distribution/Lingua-ZH-Jieba/lib/Lingua/ZH/Jieba.pod
 
 
+### 我们小组的自行修改
+[log.md](./log.md)
